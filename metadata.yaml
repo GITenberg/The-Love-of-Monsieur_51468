@@ -1,5 +1,8 @@
 _repo: The-Love-of-Monsieur_51468
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51468-h/images/cover.jpg
 creator:
   author:
     agent_name: Gibbs, George
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4037
     wikipedia: https://en.wikipedia.org/wiki/George_Fort_Gibbs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51468#The-Love-of-Monsieur
 gutenberg_issued: '2016-03-16'
 gutenberg_type: Text
 identifiers:
